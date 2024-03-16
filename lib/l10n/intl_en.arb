@@ -1,0 +1,9 @@
+{
+    "category": "Category",
+    "search": "Search",
+    "favorites": "Favorites",
+    "joke": "Joke",
+    "enterWord": "Enter a word to search for",
+    "emptyList": "Empty list",
+    "error": "Error"
+}
